@@ -13,3 +13,5 @@ This project automates Linux system maintenance using Bash scripts.
 2. Give execution permission:
    ```bash
    chmod +x *.sh
+   ./maintenance_menu.sh
+
